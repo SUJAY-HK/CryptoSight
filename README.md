@@ -42,7 +42,7 @@ cd <project-directory>
 
 ```sh
 npm install
-# or
+or
 yarn install
 ```
 
@@ -52,7 +52,7 @@ yarn install
 
 ```sh
 npm run dev
-# or
+or
 yarn dev
 ```
 
